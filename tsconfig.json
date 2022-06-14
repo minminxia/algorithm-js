@@ -1,7 +1,7 @@
 { 
   "compilerOptions": { 
     "outDir": "./dist", 
-    "target": "ES2015", 
+    "target": "es6", 
     "watch": true, 
   }, 
   // ** : 所有目录（包括子目录） 
